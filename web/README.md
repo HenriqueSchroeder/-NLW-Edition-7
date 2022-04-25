@@ -1,4 +1,4 @@
-<h1 align="center">NLW Heat - Node.js</h1>
+<h1 align="center">NLW Heat - React JS</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +10,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ViteJs](https://vitejs.dev/)
-- [React Native](https://reactnative.dev/)
+- [React JS](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://yarnpkg.com/package/sass)
 
